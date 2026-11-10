@@ -1,0 +1,14 @@
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\bin\Debug\net8.0-windows\StudentManagementSystem.exe
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\bin\Debug\net8.0-windows\StudentManagementSystem.deps.json
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\bin\Debug\net8.0-windows\StudentManagementSystem.runtimeconfig.json
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\bin\Debug\net8.0-windows\StudentManagementSystem.dll
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\bin\Debug\net8.0-windows\StudentManagementSystem.pdb
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\obj\Debug\net8.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\obj\Debug\net8.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\obj\Debug\net8.0-windows\StudentManagementSystem.AssemblyInfo.cs
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\obj\Debug\net8.0-windows\StudentManagementSystem.csproj.CoreCompileInputs.cache
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\obj\Debug\net8.0-windows\StudentManagementSystem.dll
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\obj\Debug\net8.0-windows\refint\StudentManagementSystem.dll
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\obj\Debug\net8.0-windows\StudentManagementSystem.pdb
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\obj\Debug\net8.0-windows\StudentManagementSystem.genruntimeconfig.cache
+F:\G7\CS.312\StudentManagementSystem_redesign\New folder\obj\Debug\net8.0-windows\ref\StudentManagementSystem.dll
